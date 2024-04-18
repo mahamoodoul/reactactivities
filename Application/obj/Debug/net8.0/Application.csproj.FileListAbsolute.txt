@@ -1,0 +1,17 @@
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/bin/Debug/net8.0/Application.deps.json
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/bin/Debug/net8.0/Application.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/bin/Debug/net8.0/Application.pdb
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/bin/Debug/net8.0/Domain.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/bin/Debug/net8.0/Persistence.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/bin/Debug/net8.0/Domain.pdb
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/bin/Debug/net8.0/Persistence.pdb
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/Application.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/Application.pdb
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Application/obj/Debug/net8.0/ref/Application.dll
