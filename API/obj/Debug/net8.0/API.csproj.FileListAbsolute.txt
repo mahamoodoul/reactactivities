@@ -132,3 +132,7 @@
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/AutoMapper.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/MediatR.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/MediatR.Contracts.dll

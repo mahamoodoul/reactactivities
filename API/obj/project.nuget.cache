@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bx7juVQqrkrsRlFxfqlBpt+n0uXAEn4pMf9Spsli8yVARgYbtLQoDb2m9Arm1gtJNugtlFeri9LLQTQqIPfQdw==",
+  "dgSpecHash": "wex/19uouP9tG9lDYa+uk67uIFj55nEd/yhv8dmVwi5zCHfX26ys/tk6coIc8HLKWw/GUypIdXONMoyJXaceVQ==",
   "success": true,
   "projectFilePath": "/Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
@@ -28,12 +28,14 @@
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.dependencymodel/8.0.0/microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
