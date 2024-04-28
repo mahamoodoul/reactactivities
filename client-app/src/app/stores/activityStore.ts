@@ -14,13 +14,13 @@ export default class ActivityStore {
         makeAutoObservable(this)
     }
 
-    get groupedActivities(): [string, Activity[]][] {
-        const sortedActivities = Array.from(this.activityRegistry.values()).sort((a, b) =>
-            Date.parse(a.date) - Date.parse(b.date));
+    get groupedActivities() {
+
+
 
         return Object.entries(
-            sortedActivities.reduce((activities, activity) => {
-                const date = activity.date.split('T')[0];
+            this.activitiesByDate.reduce((activities, activity) => {
+                const date = activity.date!.toISOString().split('T')[0];
                 activities[date] = activities[date] ? [...activities[date], activity] : [activity];
                 return activities;
             }, {} as {[key: string]: Activity[]})
@@ -29,7 +29,7 @@ export default class ActivityStore {
 
     get activitiesByDate() {
         return Array.from(this.activityRegistry.values()).sort((a, b) =>
-            Date.parse(a.date) - Date.parse(b.date))
+            a.date!.getTime() - b.date!.getTime());
     }
 
     loadActivities = async () => {
@@ -38,7 +38,6 @@ export default class ActivityStore {
             const activities = await agent.Activities.list();
             activities.forEach(activity => {
                 this.setActivity(activity);
-
             })
             this.setLoadingInitial(false);
         } catch (error) {
@@ -66,19 +65,15 @@ export default class ActivityStore {
                 this.setLoadingInitial(false);
             }
         }
-
-
-
     }
 
     private setActivity = (activity: Activity) => {
-        activity.date = activity.date.split('T')[0];
+        activity.date = new Date(activity.date!);
         this.activityRegistry.set(activity.id, activity);
     }
 
     private getActivity = (id: string) => {
         return this.activityRegistry.get(id);
-
     }
 
     setLoadingInitial = (state: boolean) => {
@@ -133,4 +128,6 @@ export default class ActivityStore {
             })
         }
     }
+
+
 }
