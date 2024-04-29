@@ -57,11 +57,6 @@ export default observer(function ActivityForm() {
         }
     }
 
-
-
-
-
-
     if (loadingInitial) return <LoadingComponent content='Loading activity...' />
 
     return (

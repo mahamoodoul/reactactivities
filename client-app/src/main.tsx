@@ -11,7 +11,7 @@ import { router } from './app/router/Routes';
 ReactDOM.createRoot(document.getElementById('root')!).render(
 
   <StoreContext.Provider value={store}>
-  <RouterProvider router={router} />
+    <RouterProvider router={router} />
   </StoreContext.Provider>
 
 )

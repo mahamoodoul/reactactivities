@@ -10,3 +10,4 @@
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/Domain/obj/Debug/net8.0/Domain.pdb
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/Domain/obj/Debug/net8.0/ref/Domain.dll
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
