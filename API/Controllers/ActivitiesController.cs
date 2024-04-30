@@ -13,7 +13,6 @@ namespace API.Controllers
         [HttpGet]
         public async Task<ActionResult<List<Activity>>> GetActivities()
         {
-            Console.WriteLine("are you here");
             return HandleResult(await Mediator.Send(new List.Query()));
         }
 
