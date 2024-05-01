@@ -153,3 +153,5 @@
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/Infrastructure.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/Infrastructure.pdb
