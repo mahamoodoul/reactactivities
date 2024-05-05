@@ -155,3 +155,5 @@
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/Infrastructure.dll
 /Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/Infrastructure.pdb
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/CloudinaryDotNet.dll
+/Users/mdmahamodullslam/Dev/Net_React/Reactivities/API/bin/Debug/net8.0/Newtonsoft.Json.dll
