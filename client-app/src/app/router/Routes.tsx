@@ -8,6 +8,7 @@ import ServerError from "../../features/errors/ServerError";
 import TestErrors from "../../features/errors/TestError";
 import App from "../layout/App";
 import LoginForm from "../../features/users/LoginForm";
+import ProfilePage from "../../features/profiles/ProfilePage";
 
 export const routes: RouteObject[] = [
     {
